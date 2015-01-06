@@ -1,7 +1,7 @@
 VirtualGlasses
 ==============
 
-Adds virtual glasses on a face (using webcam)
+Adds virtual glasses on a face (using webcam)\n
 Note: this is a demo application for vistual glasses usage.
 
 REQUIREMENTS:
