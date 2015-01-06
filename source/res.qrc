@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="rayban">RayBan.3ds</file>
+    </qresource>
+</RCC>
