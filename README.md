@@ -1,9 +1,9 @@
 VirtualGlasses
 ==============
-
+DEMO: http://www.youtube.com/watch?v=pDyLphr1_oE
 Adds virtual glasses on a face (using webcam)
 
-Note: this is a demo application for vistual glasses usage.
+Note: this is a demo application for virtual glasses usage.
 
 
 REQUIREMENTS:
